@@ -28,7 +28,7 @@ button i{
 }
 
 button.a{
-  background-color: #e00;
+  background-color: #007BFF;
 }
 
 button.b{
@@ -99,7 +99,7 @@ button.b{
 }
 
 #choice button.a:hover{
-  background-color: #e00;
+  background-color: #007BFF;
 }
 
 #choice button.b:hover{
@@ -107,7 +107,7 @@ button.b{
 }
 
 #choice button.a:focus{
-  background-color: #e00;
+  background-color: #007BFF;
 }
 
 #choice button.b:focus{
