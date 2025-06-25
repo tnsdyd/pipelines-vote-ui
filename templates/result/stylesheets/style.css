@@ -24,7 +24,7 @@ body{
 }
 
 #background-stats-1{
-  background-color: #e00;
+  background-color: #007BFF;
 }
 
 #background-stats-2{
@@ -93,7 +93,7 @@ body{
 }
 
 #choice .choice.cats{
-  color: #e00;
+  color: #007BFF;
   float: left;
 }
 #background-stats{
